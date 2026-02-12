@@ -1,4 +1,4 @@
-## Architecture
+```mermaid
 graph LR
     subgraph Ingestion
     A[Supply Chain Data] --> SC[Procurement Logic]
