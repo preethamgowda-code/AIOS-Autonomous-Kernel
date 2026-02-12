@@ -16,3 +16,16 @@ graph LR
     LOG -->|Live Feed| DASH[Streamlit Dashboard]
     DASH -->|Export| PDF[Official Audit PDF]
     end
+
+## 🚀 Getting Started
+
+### Prerequisites
+- **Python 3.11+**
+- **Ollama** (for local LLM inference)
+- **Streamlit** (for the UI)
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/preethamgowda-code/AIOS-Autonomous-Kernel.git](https://github.com/preethamgowda-code/AIOS-Autonomous-Kernel.git)
+   cd AIOS-Autonomous-Kernel
