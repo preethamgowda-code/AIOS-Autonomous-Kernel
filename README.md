@@ -40,5 +40,5 @@ ollama pull llama3.2:latest
 ### Running the Kernel
 Start the autonomous watcher:
 python core/watcher.py
-Launch the executive dashboard:
+### Launch the executive dashboard:
 streamlit run interface/dashboard.py
